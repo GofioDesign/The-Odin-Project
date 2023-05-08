@@ -36,21 +36,51 @@ This section contains a general overview of topics that you will learn in this l
   
 This section contains questions for you to check your understanding of this lesson on your own. If you’re having trouble answering a question, click it and review the material it links to.
 
-[What is a web server?](https://developer.mozilla.org/en-US/docs/Learn/Common_questions/Web_mechanics/Pages_sites_servers_and_search_engines)  
+[What is a web server?](https://developer.mozilla.org/en-US/docs/Learn/Common_questions/Web_mechanics/Pages_sites_servers_and_search_engines) 
+A web server is a computer that serves webpages
+
 [What is a network?](https://developer.mozilla.org/en-US/docs/Learn/Common_questions/Web_mechanics/How_does_the_Internet_work)  
+A collection of computers communicating
+
 [What is the internet?](https://www.youtube.com/watch?v=7_LPdttKXPc&t=46s)  
+A metacollection of computers communicating
+
 [What is an IP address?](https://developer.mozilla.org/en-US/docs/Learn/Common_questions/Web_mechanics/How_does_the_Internet_work)  
+An unique identifier for any device on any network
+
 [What is a router?](https://developer.mozilla.org/en-US/docs/Learn/Common_questions/Web_mechanics/How_does_the_Internet_work)  
+A small pc that decides how to follow a package on the network communication
+  
 [What is an ISP?](https://developer.mozilla.org/en-US/docs/Learn/Common_questions/Web_mechanics/How_does_the_Internet_work)  
+An ISP is your intermediary to the internet big cable
+
 [What are packets and how are they used to transfer data?](https://developer.mozilla.org/en-US/docs/Learn/Getting_started_with_the_web/How_the_Web_works#packets_explained)  
+Packets are small chunks of information sent over to deliver any content on the networks
+
 [What is a client?](https://developer.mozilla.org/en-US/docs/Learn/Getting_started_with_the_web/How_the_Web_works#clients_and_servers)  
+A pc that is not directly connected on the internet
+
 [What is a server?](https://developer.mozilla.org/en-US/docs/Learn/Getting_started_with_the_web/How_the_Web_works#clients_and_servers)  
+A pc connected directly to the internet
+
 [What is a web page?](https://developer.mozilla.org/en-US/docs/Learn/Common_questions/Web_mechanics/Pages_sites_servers_and_search_engines)  
+A piece of information shareable over internet 
+
 [What is a web browser?](https://www.youtube.com/watch?v=BrXPcaRlBqo)  
+A reader for web pages in the client pcs
+
 [What is a search engine?](https://developer.mozilla.org/en-US/docs/Learn/Common_questions/Web_mechanics/Pages_sites_servers_and_search_engines)  
-[What is a DNS request?](https://www.youtube.com/watch?v=72snZctFFtA&t=45s)  
+A internet webpages directory
+
+[What is a DNS request?](https://www.youtube.com/watch?v=72snZctFFtA&
+t=45s)  
+The process of asking the root DNS, TLD name server and authoritative name servers to direct a packet request to the right address.
+
 [Which browser are you currently using?](https://www.whatsmybrowser.org/)  
+Chrome
+
 [In your own words, explain what happens when you run a search on google.com.](https://developer.mozilla.org/en-US/docs/Learn/Common_questions/Web_mechanics/Pages_sites_servers_and_search_engines)  
+Google will check his database against my search and will provide first payed results and the other usefull results based on some reputation algorithm.
 
 ## Additional Resources
   
