@@ -1,2 +1,2 @@
 # The-Odin-Project
-The Odin Project Course
+[The Odin Project](https://www.theodinproject.com/) Course
