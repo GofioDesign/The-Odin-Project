@@ -68,7 +68,7 @@ The message,
 ![Commit hello_world and check repo status again using CLI](https://cdn.statically.io/gh/TheOdinProject/curriculum/b54d14c5dcee1c6fac61aee02fca7e9ef7ba1510/foundations/git_basics/project_practicing_git_basics/imgs/09.png)
 
 
-5. Type git log and look at the output. You should see an entry for your “Add hello_world.txt” commit. You will also see details on the author who made the commit and the date and time of when the commit was made. If your terminal is stuck in a screen with (END) at the bottom, just press “q” to escape. You can configure settings for this later, but don’t worry about it too much for now.
+5. Type git log and look at the output. You should see an entry for your “git add hello_world.txt” commit. You will also see details on the author who made the commit and the date and time of when the commit was made. If your terminal is stuck in a screen with (END) at the bottom, just press “q” to escape. You can configure settings for this later, but don’t worry about it too much for now.
 ![Commit hello_world and check repo status again using CLI](https://cdn.statically.io/gh/TheOdinProject/curriculum/b54d14c5dcee1c6fac61aee02fca7e9ef7ba1510/foundations/git_basics/project_practicing_git_basics/imgs/10.png)
 
 
@@ -178,16 +178,39 @@ For now, concentrate on using the basics of Git that you’ve learned here for a
 This section contains questions for you to check your understanding of this lesson on your own. If you’re having trouble answering a question, click it and review the material it links to.
 
 - How do you create a new repository on GitHub?
+  On the Github page, click the + sign in the top right corner and select New Repository.
+
 - How do you copy a repository onto your local machine from GitHub?
+  git clone git@github.com:{Github user}/{Github Repo Name}.git
+
 - What is the default name of your remote connection?
+  The remote branch is called name.
+
 - Explain what origin is in git push origin main.
+  Origin is the name of the remote repository.
+
 - Explain what main is in git push origin main.
+  Main is the branch name
+
 - Explain the two-stage system that Git uses to save files.
+  Git uses the stage area to save files. The stage area is where you add files to be committed. Once you commit the files, they are saved to the repository.
+
 - How do you check the status of your current repository?
+  git status is the command to get the status of the current repository.
+
 - How do you add files to the staging area in git?
+  git add filename is the command to add filename to the staging area.
+  git add . is the command to add all files to the staging area.
+
 - How do you commit the files in the staging area and add a descriptive - message?
+  git commit -m "message" is the command to commit the files in the staging area and add a descriptive message.
+
 - How do you push your changes to your repository on GitHub?
+  git push origin main is the command to push your changes to your repository on GitHub.
+
 - How do you look at the history of your previous commits?
+  git log is the command to look at the history of your previous commits.
+  
 ## Additional Resources
 This section contains helpful links to related content. It isn’t required, so consider it supplemental.
 
