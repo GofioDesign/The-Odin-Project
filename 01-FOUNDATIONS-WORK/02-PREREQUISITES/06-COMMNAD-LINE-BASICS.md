@@ -127,4 +127,4 @@ This section contains questions for you to check your understanding of this less
   - ´ŕm -r dir´ removes a directory recursively
 
 - How do you rename a directory or file?
-  - ´mv oldname newname´ renames a directory or file
+  - ´mv oldname newname´ renames a directory or file 
